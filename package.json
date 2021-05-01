@@ -1,6 +1,6 @@
 {
-  "homepage": "http://BrandonAG.github.io/oh-snap",
-  "name": "photo-port",
+  "homepage": "https://brandonag.github.io/oh-snap",
+  "name": "oh-snap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
